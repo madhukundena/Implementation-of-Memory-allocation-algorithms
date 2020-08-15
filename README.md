@@ -1,6 +1,14 @@
 # Implementation-of-Memory-allocation-algorithms
 
-*Steps to Simulate Memory Allocation Algorithms*
+## FirstFit:
+![alt text](https://github.com/madhukundena/Implementation-of-Memory-allocation-algorithms/blob/master/Images/FirstFit.jpg)
+## BestFit:
+![alt text](https://github.com/madhukundena/Implementation-of-Memory-allocation-algorithms/blob/master/Images/BestFit.jpg)
+## WorstFit:
+![alt text](https://github.com/madhukundena/Implementation-of-Memory-allocation-algorithms/blob/master/Images/WorstFit.jpg)
+
+
+## *Steps to Simulate Memory Allocation Algorithms*
 
 1) Copy the Program files to the htdocs located in C drive in the xampp folder.(In the case of xampp).
 
